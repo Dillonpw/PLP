@@ -1,2 +1,2 @@
 # PLP
-The Odin project Product Landing Page
+The Odin Project Product Landing Page
