@@ -47,6 +47,7 @@ a {
   align-items: center;
   margin: 10vw;
   margin-top: 10px;
+  margin-bottom: 30px;
 }
 
 .header-text {
@@ -54,7 +55,7 @@ a {
   flex-direction: column;
   margin-right: 40px;
   font-weight: 100;
-  max-width: 837px;
+  max-width: 409px;
 }
 
 .header-text > button {
@@ -76,8 +77,8 @@ a {
 .placeholder > img {
   display: flex;
   background-color: #474748;
-  width: 360px;
-  height: 250px;
+  width: 380px;
+  height: 270px;
   align-items: center;
   justify-content: center;
   border-radius: 8px;
